@@ -8,6 +8,16 @@ The IP to connect is `play.2p2e.net`. The port is the default (`19132`).
 
 We also have a [Discord](https://discordapp.com) server! [The invite link is here](https://discord.gg/E9KfsPN).
 
-# Cool server banner thingy
+### Vote
+
+No rewards or anything, other than the simple fact that voting increases player counts.
+
+[Link 1](https://minecraftpocket-servers.com/server/75615/vote/)
+
+[Link 2](https://minecraft-pe-servers.com/servers/104740/)
+
+[Link 3](http://minecraftpeservers.org/vote/5370)
+
+### Cool server status thingy
 
 <iframe src="https://minecraft-statistic.net/en/userbars/html/server/banner_163567_1a1a1a_000000_ff5555_55ff55_111111_ff5555_5555ff_1_1_1.html" frameborder="0" scrolling="no" width="336" height="566"></iframe>
