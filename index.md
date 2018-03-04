@@ -16,7 +16,7 @@ You can submit a custom MOTD (use `/submit <your motd here>` ingane) every 10 vo
 
 [Link 2](https://minecraft-pe-servers.com/servers/104740/)
 
-[Link 3](https://minecraftlist.org/pe-vote/958)
+[Link 3](https://minecraftlist.org/pe-vote/2120)
 
 [Link 4](https://minecraftpe-servers.com/mcpevote/25/)
 
