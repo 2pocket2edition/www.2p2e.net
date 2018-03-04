@@ -10,14 +10,18 @@ We also have a [Discord](https://discordapp.com) server! [The invite link is her
 
 ### Vote
 
-No rewards or anything, other than the simple fact that voting increases player counts.
+You can submit a custom MOTD (use `/submit <your motd here>` ingane) every 10 votes.
 
 [Link 1](https://minecraftpocket-servers.com/server/75615/vote/)
 
 [Link 2](https://minecraft-pe-servers.com/servers/104740/)
 
-[Link 3](http://minecraftpeservers.org/vote/5370)
+[Link 3](https://minecraftlist.org/pe-vote/958)
+
+[Link 4](https://minecraftpe-servers.com/mcpevote/25/)
 
 ### Cool server status thingy
+
+This isn't very accurate but whatever
 
 <iframe src="https://minecraft-statistic.net/en/userbars/html/server/banner_163567_1a1a1a_000000_ff5555_55ff55_111111_ff5555_5555ff_1_1_1.html" frameborder="0" scrolling="no" width="336" height="566"></iframe>
