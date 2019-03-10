@@ -8,7 +8,7 @@ The IP to connect is `play.2p2e.net`. The port is the default (`19132`).
 
 We also have a [Discord](https://discordapp.com) server! [The invite link is here](https://discord.gg/E9KfsPN).
 
-### Vote
+## Vote
 
 You can submit a custom MOTD (use `/submit <your motd here>` ingane) every 10 votes.
 
@@ -20,8 +20,17 @@ You can submit a custom MOTD (use `/submit <your motd here>` ingane) every 10 vo
 
 [Link 4](https://minecraftpe-servers.com/mcpevote/25/)
 
-### Cool server status thingy
+## Statistics
 
-This isn't very accurate but whatever
+### Daily
 
-<iframe src="https://minecraft-statistic.net/en/userbars/html/server/banner_163567_1a1a1a_000000_ff5555_55ff55_111111_ff5555_5555ff_1_1_1.html" frameborder="0" scrolling="no" width="336" height="566"></iframe>
+<iframe id="players-daily" src="https://minecraftpocket-servers.com/statistics/chart/daily/players/75615/" frameborder="0" height="300em" width="980em" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true"></iframe>
+
+<iframe id="uptime-daily" src="https://minecraftpocket-servers.com/statistics/chart/daily/uptime/75615/" frameborder="0" height="300em" width="980em" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true"></iframe>
+
+### Monthly
+
+<iframe id="players-monthly" src="https://minecraftpocket-servers.com/statistics/chart/monthly/players/75615/" frameborder="0" height="300em" width="980em" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true"></iframe>
+
+<iframe id="uptime-monthly" src="https://minecraftpocket-servers.com/statistics/chart/monthly/uptime/75615/" frameborder="0" height="300em" width="980em" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true"></iframe>
+
